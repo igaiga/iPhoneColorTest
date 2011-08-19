@@ -13,6 +13,13 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    self.navigationController.toolbarHidden = NO;
+    self.navigationController.toolbar.tintColor = [UIColor redColor];
+    self.navigationController.navigationBar.tintColor = [UIColor redColor];
+//    UIBarButtonItem* button1 = [[[UIBarButtonItem alloc]initWithBarButtonSystemItem:UIBarButtonSystemItemRefresh target:self action:nil ] autorelease];
+//    NSArray* buttons = [NSArray arrayWithObjects:button1, nil];
+ //   [self setToolbarItems:buttons animated:YES];
 }
 
 - (void)viewWillAppear:(BOOL)animated

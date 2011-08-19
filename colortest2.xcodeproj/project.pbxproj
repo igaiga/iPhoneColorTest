@@ -23,14 +23,14 @@
 		ACC0692013FE7786005833C0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		ACC0692213FE7786005833C0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		ACC0692413FE7786005833C0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		ACC0692813FE7786005833C0 /* colortest2-Info.plist */ = {isa = PBXFileReference; path = "colortest2-Info.plist"; sourceTree = "<group>"; };
+		ACC0692813FE7786005833C0 /* colortest2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "colortest2-Info.plist"; sourceTree = "<group>"; };
 		ACC0692A13FE7786005833C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		ACC0692C13FE7786005833C0 /* colortest2-Prefix.pch */ = {isa = PBXFileReference; path = "colortest2-Prefix.pch"; sourceTree = "<group>"; };
+		ACC0692C13FE7786005833C0 /* colortest2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "colortest2-Prefix.pch"; sourceTree = "<group>"; };
 		ACC0692D13FE7786005833C0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		ACC0692F13FE7786005833C0 /* colortest2AppDelegate.h */ = {isa = PBXFileReference; path = colortest2AppDelegate.h; sourceTree = "<group>"; };
+		ACC0692F13FE7786005833C0 /* colortest2AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = colortest2AppDelegate.h; sourceTree = "<group>"; };
 		ACC0693013FE7786005833C0 /* colortest2AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = colortest2AppDelegate.m; sourceTree = "<group>"; };
 		ACC0693313FE7786005833C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		ACC0693513FE7786005833C0 /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
+		ACC0693513FE7786005833C0 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		ACC0693613FE7786005833C0 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		ACC0693913FE7786005833C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
